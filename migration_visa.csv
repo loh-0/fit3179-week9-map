@@ -1,0 +1,241 @@
+﻿Visa Type,Year,Arrivals
+Family,2004,28430
+Family,2005,30400
+Family,2006,32480
+Family,2007,33100
+Family,2008,35060
+Family,2009,35580
+Family,2010,33730
+Family,2011,34770
+Family,2012,35230
+Family,2013,35510
+Family,2014,32050
+Family,2015,31590
+Family,2016,29680
+Family,2017,26280
+Family,2018,24290
+Family,2019,20300
+Family,2020,15650
+Family,2021,25910
+Family,2022,21100
+Family,2023,23130
+Skilled (permanent),2004,35540
+Skilled (permanent),2005,42750
+Skilled (permanent),2006,47540
+Skilled (permanent),2007,51600
+Skilled (permanent),2008,48360
+Skilled (permanent),2009,41140
+Skilled (permanent),2010,33060
+Skilled (permanent),2011,40980
+Skilled (permanent),2012,38020
+Skilled (permanent),2013,40330
+Skilled (permanent),2014,42240
+Skilled (permanent),2015,41850
+Skilled (permanent),2016,46140
+Skilled (permanent),2017,43320
+Skilled (permanent),2018,38230
+Skilled (permanent),2019,27280
+Skilled (permanent),2020,14620
+Skilled (permanent),2021,28100
+Skilled (permanent),2022,35390
+Skilled (permanent),2023,40720
+Special eligibility & humanitarian,2004,13580
+Special eligibility & humanitarian,2005,12320
+Special eligibility & humanitarian,2006,12400
+Special eligibility & humanitarian,2007,9470
+Special eligibility & humanitarian,2008,11630
+Special eligibility & humanitarian,2009,9920
+Special eligibility & humanitarian,2010,9180
+Special eligibility & humanitarian,2011,7700
+Special eligibility & humanitarian,2012,8540
+Special eligibility & humanitarian,2013,13170
+Special eligibility & humanitarian,2014,11690
+Special eligibility & humanitarian,2015,11080
+Special eligibility & humanitarian,2016,24120
+Special eligibility & humanitarian,2017,12190
+Special eligibility & humanitarian,2018,15340
+Special eligibility & humanitarian,2019,13000
+Special eligibility & humanitarian,2020,590
+Special eligibility & humanitarian,2021,7780
+Special eligibility & humanitarian,2022,12970
+Special eligibility & humanitarian,2023,17460
+Other (permanent),2004,3650
+Other (permanent),2005,3640
+Other (permanent),2006,3770
+Other (permanent),2007,3940
+Other (permanent),2008,4000
+Other (permanent),2009,3990
+Other (permanent),2010,4320
+Other (permanent),2011,4250
+Other (permanent),2012,4960
+Other (permanent),2013,5340
+Other (permanent),2014,5510
+Other (permanent),2015,6070
+Other (permanent),2016,6270
+Other (permanent),2017,6130
+Other (permanent),2018,7530
+Other (permanent),2019,10320
+Other (permanent),2020,6090
+Other (permanent),2021,9320
+Other (permanent),2022,10930
+Other (permanent),2023,9580
+Student,2004,66180
+Student,2005,73090
+Student,2006,103730
+Student,2007,133730
+Student,2008,152760
+Student,2009,106660
+Student,2010,75350
+Student,2011,73270
+Student,2012,86210
+Student,2013,114330
+Student,2014,122130
+Student,2015,132130
+Student,2016,149410
+Student,2017,157630
+Student,2018,164340
+Student,2019,110440
+Student,2020,1510
+Student,2021,141420
+Student,2022,277760
+Student,2023,206770
+Student - vocational education and training,2004,7990
+Student - vocational education and training,2005,10500
+Student - vocational education and training,2006,19970
+Student - vocational education and training,2007,31420
+Student - vocational education and training,2008,53570
+Student - vocational education and training,2009,25710
+Student - vocational education and training,2010,11000
+Student - vocational education and training,2011,10150
+Student - vocational education and training,2012,8460
+Student - vocational education and training,2013,9740
+Student - vocational education and training,2014,11180
+Student - vocational education and training,2015,15270
+Student - vocational education and training,2016,16300
+Student - vocational education and training,2017,19650
+Student - vocational education and training,2018,22650
+Student - vocational education and training,2019,11420
+Student - vocational education and training,2020,120
+Student - vocational education and training,2021,21470
+Student - vocational education and training,2022,38140
+Student - vocational education and training,2023,19840
+Student - higher education,2004,32750
+Student - higher education,2005,42040
+Student - higher education,2006,57940
+Student - higher education,2007,73150
+Student - higher education,2008,72080
+Student - higher education,2009,56500
+Student - higher education,2010,43020
+Student - higher education,2011,41870
+Student - higher education,2012,56500
+Student - higher education,2013,79140
+Student - higher education,2014,85070
+Student - higher education,2015,89170
+Student - higher education,2016,101440
+Student - higher education,2017,106520
+Student - higher education,2018,111310
+Student - higher education,2019,75950
+Student - higher education,2020,730
+Student - higher education,2021,98410
+Student - higher education,2022,177400
+Student - higher education,2023,147520
+Student - other,2004,25440
+Student - other,2005,20550
+Student - other,2006,25810
+Student - other,2007,29160
+Student - other,2008,27110
+Student - other,2009,24450
+Student - other,2010,21330
+Student - other,2011,21250
+Student - other,2012,21260
+Student - other,2013,25450
+Student - other,2014,25870
+Student - other,2015,27690
+Student - other,2016,31670
+Student - other,2017,31460
+Student - other,2018,30390
+Student - other,2019,23070
+Student - other,2020,670
+Student - other,2021,21540
+Student - other,2022,62220
+Student - other,2023,39410
+Skilled (temporary),2004,17100
+Skilled (temporary),2005,27730
+Skilled (temporary),2006,35850
+Skilled (temporary),2007,44010
+Skilled (temporary),2008,44060
+Skilled (temporary),2009,26270
+Skilled (temporary),2010,35600
+Skilled (temporary),2011,47880
+Skilled (temporary),2012,43460
+Skilled (temporary),2013,32870
+Skilled (temporary),2014,31490
+Skilled (temporary),2015,30490
+Skilled (temporary),2016,32690
+Skilled (temporary),2017,26940
+Skilled (temporary),2018,32600
+Skilled (temporary),2019,22840
+Skilled (temporary),2020,8950
+Skilled (temporary),2021,24420
+Skilled (temporary),2022,49250
+Skilled (temporary),2023,48810
+Working holiday,2004,12930
+Working holiday,2005,17080
+Working holiday,2006,21630
+Working holiday,2007,29120
+Working holiday,2008,34300
+Working holiday,2009,33030
+Working holiday,2010,43460
+Working holiday,2011,54620
+Working holiday,2012,59250
+Working holiday,2013,54190
+Working holiday,2014,51600
+Working holiday,2015,50100
+Working holiday,2016,50330
+Working holiday,2017,50990
+Working holiday,2018,49090
+Working holiday,2019,43950
+Working holiday,2020,1020
+Working holiday,2021,20470
+Working holiday,2022,73670
+Working holiday,2023,79600
+Visitors,2004,35770
+Visitors,2005,36100
+Visitors,2006,37590
+Visitors,2007,49990
+Visitors,2008,42340
+Visitors,2009,40260
+Visitors,2010,41710
+Visitors,2011,42720
+Visitors,2012,47920
+Visitors,2013,44440
+Visitors,2014,50240
+Visitors,2015,60550
+Visitors,2016,72270
+Visitors,2017,79430
+Visitors,2018,91220
+Visitors,2019,117740
+Visitors,2020,7700
+Visitors,2021,47410
+Visitors,2022,108350
+Visitors,2023,89970
+Other (temporary),2004,9320
+Other (temporary),2005,7580
+Other (temporary),2006,6780
+Other (temporary),2007,6920
+Other (temporary),2008,5720
+Other (temporary),2009,5330
+Other (temporary),2010,6450
+Other (temporary),2011,7100
+Other (temporary),2012,7220
+Other (temporary),2013,7330
+Other (temporary),2014,7480
+Other (temporary),2015,8490
+Other (temporary),2016,10120
+Other (temporary),2017,12320
+Other (temporary),2018,13410
+Other (temporary),2019,18680
+Other (temporary),2020,10390
+Other (temporary),2021,32490
+Other (temporary),2022,47600
+Other (temporary),2023,39640
